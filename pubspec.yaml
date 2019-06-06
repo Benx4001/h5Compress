@@ -1,0 +1,5 @@
+name: "h5Compress"
+version: "1.0.0"
+description: >-
+  async function for compress the image file.  
+author: Benjamin Shen
