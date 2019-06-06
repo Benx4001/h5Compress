@@ -1,5 +1,8 @@
-name: "h5Compress"
+name: "h5compress"
 version: "1.0.0"
 description: >-
   async function for compress the image file.  
-author: Benjamin Shen
+author: Benjamin Shen<170995299@Qqq.com>
+homepage: https://github.com/Benx4001/h5Compress
+environment:
+  sdk: '>=2.0.0 <3.0.0'
